@@ -4,6 +4,6 @@ Some Laws, Regulations and Standards. I'll classify them by countries(regions) o
 I'll keep updating, following is a contents of this repository.
 
 ## Contents
-### Overview
-[PART 1](https://github.com/DIJUNLIAO)
+### EU & UK
+[GDPR --- General Protection Data Regulation](https://github.com/DIJUNLIAO/Laws_Regulations_and_Standards/blob/main/EU%26UK/GDPR.pdf)
 
